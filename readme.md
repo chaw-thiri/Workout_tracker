@@ -2,6 +2,7 @@
 * This program helps you record your daily exercises in the Google sheet by recalculating the energy expenditure from the category and duration of your exercise.
 * ![image](https://github.com/chaw-thiri/Workout_tracker/assets/113085742/89b1b968-12be-41c9-b99e-3fe3fb23a187)
 * Using the Nutritionix API from Syndigo University and Sheety API, the Python program and the Google sheet are permanently connected so that every record you make in this program will be saved in the Google sheet.
+  
 ![image](https://github.com/chaw-thiri/Workout_tracker/assets/113085742/d3297cce-900e-4953-97ff-8e7b6aca8dc2)
 
 ## Setup
